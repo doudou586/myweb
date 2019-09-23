@@ -1,0 +1,68 @@
+ BODY { font-family : "Arial","Tahoma","Courer" ; font-size : 12px; }
+.BOXTABLE { border-collapse:collapse;
+        border: 2px solid #330000;
+        empty-cells: show ; }
+TR    { border: 1px solid #330000;}
+  A, BLOCKQUOTE, UL,PRE,TD,OL,P,DIV,LI,span { font-family : "Arial","Tahoma";font-size : 12px;line-height:16px;}
+  SELECT,TEXTAREA { font-family : "Courier New", "Arial","Tahoma"; font-size : 12px;line-height:15pt;border-radius:8px;}
+  TEXTAREA { min-width: 400px; }
+  INPUT,BUTTON {font-family : "Courier New","Arial","Tahoma";background:url(../images/btnbg.jpg);
+        border:1px solid;font-size : 12px;border-radius:8px;min-width: 80px;
+      }
+
+  TH { font-family : Arial;font-size: 12px;line-height:16px;}
+  caption {font-family:TimesNewRoman;font-size:15px;color:#660000;font-weight:bold;}
+  A:link { text-decoration: none; color:#000066;}
+  A:visited { text-decoration: none; color: #000066;}
+  A:active { text-decoration: none; color: #000066; }
+  A:hover { text-decoration: none; color: #990000; }
+  .myCtl {font-family:Arial;font-size:11pt}
+  .smaCtl {font-family:Arial;font-size:12px}
+  .arrow  {font-family:webdings;font-size:9pt;color:#006600; }
+  .tinyCtl{font-family:Arial; font-size:11px;color:#c0c0c0}
+  .mybtn  {font-family:Arial;font-size:12px;height:22px;background:url(../images/btnbg.jpg);border:1px solid;border-radius:8px;}
+  .submit {font-family:Arial;font-size:12px;height:22px;background:#f0f0f0;border:1px solid;}
+  .spbtn  {font-family:Arial;font-size:12px;height:25px;width:58px;background:#ffce40;border:1px solid;}
+  .mytxt  {font-family:Arial;font-size:12px;}
+  .mytxtc {font-family:Arial;font-size:12px;}
+  .mytxt2 {font-family:Arial;font-size:12px;border: 2px solid;background:#ffffff;}
+  .mytxtr {font-family:Arial;font-size:12px;border: 1px solid;background :#e0f0f0; }
+  .mytxtl {font-family:Arial;font-size:12px;border: 0px solid;background :transparent;}
+  .banner {font-family:"Times";font-size:15px;color:#990000;font-weight:bold;}
+  .banner18 {font-family:"Times";font-size:18pt;color:#990000;font-weight:bold;}
+  .banner20 {font-family:"Times";font-size:20pt;color:#990000;font-weight:bold;}
+  .bigbanner{font-family:Times;font-size:38px;color:#990000;font-weight:bold;}
+  .prntxt  { font-family:·½Õý´ÖËÎ¼òÌå;font-size:22px;color:#660000;}
+  .hint    { font-family:verdana;color:#990000;background:#f0f000;border:1px solid;padding:4px;border-color:#000000}
+  .txtbtn  { font-family:Arial;font-size:12px;color:#660000;background:#ffce42;border:1px solid;padding:2px;border-color:#000000;height:22px; width:140px;}
+  .txtbtns { font-family:Arial;font-size:12px;color:#660000;background:#ffce42;border:1px solid;padding:2px;border-color:#000000;height:22px; width:130px;}
+  .txtbtnss { font-family:Arial;font-size:12px;color:#660000;background:#ffce42;border:1px solid;padding:2px;border-color:#000000;height:22px; width:110px;}
+  .txtbtn1 { font-family:Arial;font-size:12px;color:#000000;background:#f7f7f7;border:1px solid;padding:2px;border-color:#000000;height:20px; width:140px;}
+  .txtbtn2 { font-family:Arial;font-size:12px;color:#660000;background:#66e0f0;border:1px solid;padding:2px;border-color:#000000;height:22px; width:140px;}
+  .txtbtns2{ font-family:Arial;font-size:12px;color:#660000;background:#66e0f0;border:1px solid;padding:2px;border-color:#000000;height:22px; width:130px;}
+  .txtbtn3 { font-family:Arial;font-size:12px;color:#660000;background:#ffee66;border:1px solid;padding:2px;border-color:#000000;height:22px; width:140px;}
+  .txtbtns3{ font-family:Arial;font-size:12px;color:#660000;background:#ffee66;border:1px solid;padding:2px;border-color:#000000;height:22px; width:130px;}
+  .txtbtn4 { font-family:Arial;font-size:12px;color:#660000;background:#f7f7f7;border:1px solid;padding:2px;border-color:#000000;height:22px; }
+  .txtbtn5 { font-family:Arial;font-size:12px;color:#660000;background:#66ff66;border:1px solid;padding:2px;border-color:#000000;height:22px; width:130px;}
+  .reftxt  { font-family:Arial;font-size:12px;color:#990000;background:#ccffcc;border:0px solid;;border-color:#000000;}
+  .labeltxt{ font-family:verdana;font-size:11pt;font-weight:bold;color:#660000;border-right: 0px solid; border-top: 0px solid; border-left: 0px solid; border-bottom:0px solid;}
+  .label   { font-family:Arial;font-size:12px;color:#660000;border-right: 0px solid; border-top: 1px solid; border-left: 1px solid; border-bottom:0px solid;}
+  .labels  { font-family:arial;font-size:12px;color:#660000;border-right: 0px solid; border-top: 0px solid; border-left: 0px solid; border-bottom:0px solid; width:26px; }
+  .focustxt  { font-family:Arial;font-size:12px;color:#990000;}
+  .divedt {font-family:Arial;font-size:12px;border: 0px solid;background :transparent;}
+  .memofd  { font-family:courier new; width:100%; border-radius:8px;}
+  .monospaced { font-family:courier new; }
+  .bigbanner {font-family:Kaiti_gb2312;font-size:14pt;font-weight:bold;  }
+  .printfoot { font-family:arial;font-size:11px;display:none; }
+  .noprint { font-family:arial;font-size:11px;color:#f0f0f0; }
+
+
+.round_5 { border-radius: 5px; }
+.round_10 { border-radius: 10px; }
+.round_15 { border-radius: 15px; }
+.round_20 { border-radius: 20px; }
+.round_25 { border-radius: 25px; }
+.round_all { border-radius: 50%; }
+
+
+
